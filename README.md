@@ -4,7 +4,7 @@ currently I'm prototyping a personal website using figma and framer to get the e
 
 # is this coding?
 
-yes, specific elements within prototyping do require me to code 
+yes, specific elements within prototyping do require me to code BUT also for now I'm using framer as just a design tool and will be coding out the website when I am done with the design
 
 # why aren't there many changes in the commits?
 
